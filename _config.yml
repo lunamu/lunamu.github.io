@@ -1,9 +1,9 @@
 # Site settings
 title: Art Synthesizer 
 email: lunamu2011@gmail.com
-description: Easier doing than saying
+description: ""
 baseurl: ""
-url: "http://www.lunamu.com" 
+url: ""
 github_username: lunamu 
 
 # Build settings
